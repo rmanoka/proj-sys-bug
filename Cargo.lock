@@ -286,7 +286,6 @@ dependencies = [
 [[package]]
 name = "proj-sys"
 version = "0.18.3"
-source = "git+https://github.com/georust/proj.git#0b11fed411a053d05f2a9b25d8ccf0e80fcfeeed"
 dependencies = [
  "bindgen",
  "cmake",
